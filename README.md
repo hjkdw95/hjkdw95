@@ -1,11 +1,11 @@
-<h2 align="center"> Hello There 👋 </h2>
+<h1 align="center"> Hello There 👋 </h1>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjkdw95&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 <br>
 
 
-<h4 align="center">💻Tech Stack💻</h4>
+<h3 align="center">💻Tech Stack💻</h3>
 <br>
 
 <p align="center">Feel comfortable with..</p>
@@ -47,14 +47,14 @@
 <br>
 <br>
 
-<h4 align="center">🙌Get in touch via..</h4>
+<h3 align="center">🙌Get in touch via..</h3>
 <p align="center">
  <a href="https://velog.io/@hjkdw95"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hjkdw95"/></a>&nbsp
   <a href="mailto:hjkdw9506@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hjkdw9506@gmai.com"/></a>
 </p>
 <br>
 
-<h4 align="center">👩🏻‍💻Github Stats👩🏻‍💻</h4>
+<h3 align="center">👩🏻‍💻Github Stats👩🏻‍💻</h3>
 <div align="center" style="text-align:center">
   
   [![HyunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjkdw95)](https://github.com/anuraghazra/github-readme-stats)
