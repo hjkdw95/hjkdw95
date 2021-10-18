@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-Storybook-ff4685?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Node.js-036d02?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
