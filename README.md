@@ -13,8 +13,12 @@
 <img src="https://img.shields.io/badge/-HTML-critical?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-f7e01b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-62dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Styled--Components-db7192?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Git-f64e27?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
@@ -31,14 +35,12 @@
 
 <p align="center">Tools that I use...</p>
 <p align="center">
-<img src="https://img.shields.io/badge/-Git-f64e27?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Notion-f8f5f0?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Trello-217ef8?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Slack-601f69?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Postman-ff6b37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-Postman-ff6b37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-VSCode-0065b8?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Yarn-117cad?style=flat-square&logo=Yarn&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-npm-c40b0a?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp
