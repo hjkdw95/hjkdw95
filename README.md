@@ -26,10 +26,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-SCSS-cc6599?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=PostCSS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/-Storybook-ff4685?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-036d02?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Storybook-ff4685?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
